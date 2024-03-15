@@ -1,0 +1,14 @@
+C:\Users\mihke\OneDrive\Desktop\Homework_w6\Homework_w6_2\Homework_w6_2\obj\Debug\net8.0\Homework_w6_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mihke\OneDrive\Desktop\Homework_w6\Homework_w6_2\Homework_w6_2\obj\Debug\net8.0\Homework_w6_2.AssemblyInfoInputs.cache
+C:\Users\mihke\OneDrive\Desktop\Homework_w6\Homework_w6_2\Homework_w6_2\obj\Debug\net8.0\Homework_w6_2.AssemblyInfo.cs
+C:\Users\mihke\OneDrive\Desktop\Homework_w6\Homework_w6_2\Homework_w6_2\obj\Debug\net8.0\Homework_w6_2.csproj.CoreCompileInputs.cache
+C:\Users\mihke\OneDrive\Desktop\Homework_w6\Homework_w6_2\Homework_w6_2\bin\Debug\net8.0\Homework_w6_2.exe
+C:\Users\mihke\OneDrive\Desktop\Homework_w6\Homework_w6_2\Homework_w6_2\bin\Debug\net8.0\Homework_w6_2.deps.json
+C:\Users\mihke\OneDrive\Desktop\Homework_w6\Homework_w6_2\Homework_w6_2\bin\Debug\net8.0\Homework_w6_2.runtimeconfig.json
+C:\Users\mihke\OneDrive\Desktop\Homework_w6\Homework_w6_2\Homework_w6_2\bin\Debug\net8.0\Homework_w6_2.dll
+C:\Users\mihke\OneDrive\Desktop\Homework_w6\Homework_w6_2\Homework_w6_2\bin\Debug\net8.0\Homework_w6_2.pdb
+C:\Users\mihke\OneDrive\Desktop\Homework_w6\Homework_w6_2\Homework_w6_2\obj\Debug\net8.0\Homework_w6_2.dll
+C:\Users\mihke\OneDrive\Desktop\Homework_w6\Homework_w6_2\Homework_w6_2\obj\Debug\net8.0\refint\Homework_w6_2.dll
+C:\Users\mihke\OneDrive\Desktop\Homework_w6\Homework_w6_2\Homework_w6_2\obj\Debug\net8.0\Homework_w6_2.pdb
+C:\Users\mihke\OneDrive\Desktop\Homework_w6\Homework_w6_2\Homework_w6_2\obj\Debug\net8.0\Homework_w6_2.genruntimeconfig.cache
+C:\Users\mihke\OneDrive\Desktop\Homework_w6\Homework_w6_2\Homework_w6_2\obj\Debug\net8.0\ref\Homework_w6_2.dll
