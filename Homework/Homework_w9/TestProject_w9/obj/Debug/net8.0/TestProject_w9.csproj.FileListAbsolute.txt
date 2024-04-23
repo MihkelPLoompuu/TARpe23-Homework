@@ -1,5 +1,0 @@
-C:\Users\mihke\OneDrive\Desktop\TARpe23\Homework\Homework_w9\TestProject_w9\obj\Debug\net8.0\TestProject_w9.csproj.AssemblyReference.cache
-C:\Users\mihke\OneDrive\Desktop\TARpe23\Homework\Homework_w9\TestProject_w9\obj\Debug\net8.0\TestProject_w9.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\mihke\OneDrive\Desktop\TARpe23\Homework\Homework_w9\TestProject_w9\obj\Debug\net8.0\TestProject_w9.AssemblyInfoInputs.cache
-C:\Users\mihke\OneDrive\Desktop\TARpe23\Homework\Homework_w9\TestProject_w9\obj\Debug\net8.0\TestProject_w9.AssemblyInfo.cs
-C:\Users\mihke\OneDrive\Desktop\TARpe23\Homework\Homework_w9\TestProject_w9\obj\Debug\net8.0\TestProject_w9.csproj.CoreCompileInputs.cache
