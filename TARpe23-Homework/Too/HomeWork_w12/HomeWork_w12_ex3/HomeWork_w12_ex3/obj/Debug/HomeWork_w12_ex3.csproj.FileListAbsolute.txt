@@ -1,0 +1,10 @@
+C:\Users\mihke\OneDrive\Desktop\TARpe23\Homework\HomeWork_w12\HomeWork_w12_ex3\HomeWork_w12_ex3\bin\Debug\HomeWork_w12_ex3.exe.config
+C:\Users\mihke\OneDrive\Desktop\TARpe23\Homework\HomeWork_w12\HomeWork_w12_ex3\HomeWork_w12_ex3\bin\Debug\HomeWork_w12_ex3.exe
+C:\Users\mihke\OneDrive\Desktop\TARpe23\Homework\HomeWork_w12\HomeWork_w12_ex3\HomeWork_w12_ex3\bin\Debug\HomeWork_w12_ex3.pdb
+C:\Users\mihke\OneDrive\Desktop\TARpe23\Homework\HomeWork_w12\HomeWork_w12_ex3\HomeWork_w12_ex3\obj\Debug\HomeWork_w12_ex3.csproj.AssemblyReference.cache
+C:\Users\mihke\OneDrive\Desktop\TARpe23\Homework\HomeWork_w12\HomeWork_w12_ex3\HomeWork_w12_ex3\obj\Debug\HomeWork_w12_ex3.Form1.resources
+C:\Users\mihke\OneDrive\Desktop\TARpe23\Homework\HomeWork_w12\HomeWork_w12_ex3\HomeWork_w12_ex3\obj\Debug\HomeWork_w12_ex3.Properties.Resources.resources
+C:\Users\mihke\OneDrive\Desktop\TARpe23\Homework\HomeWork_w12\HomeWork_w12_ex3\HomeWork_w12_ex3\obj\Debug\HomeWork_w12_ex3.csproj.GenerateResource.cache
+C:\Users\mihke\OneDrive\Desktop\TARpe23\Homework\HomeWork_w12\HomeWork_w12_ex3\HomeWork_w12_ex3\obj\Debug\HomeWork_w12_ex3.csproj.CoreCompileInputs.cache
+C:\Users\mihke\OneDrive\Desktop\TARpe23\Homework\HomeWork_w12\HomeWork_w12_ex3\HomeWork_w12_ex3\obj\Debug\HomeWork_w12_ex3.exe
+C:\Users\mihke\OneDrive\Desktop\TARpe23\Homework\HomeWork_w12\HomeWork_w12_ex3\HomeWork_w12_ex3\obj\Debug\HomeWork_w12_ex3.pdb
