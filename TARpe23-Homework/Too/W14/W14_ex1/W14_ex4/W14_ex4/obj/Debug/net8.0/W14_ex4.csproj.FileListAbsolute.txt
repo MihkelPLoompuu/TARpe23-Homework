@@ -1,0 +1,14 @@
+C:\Users\mihke\source\repos\W14\W14_ex4\W14_ex4\bin\Debug\net8.0\W14_ex4.exe
+C:\Users\mihke\source\repos\W14\W14_ex4\W14_ex4\bin\Debug\net8.0\W14_ex4.deps.json
+C:\Users\mihke\source\repos\W14\W14_ex4\W14_ex4\bin\Debug\net8.0\W14_ex4.runtimeconfig.json
+C:\Users\mihke\source\repos\W14\W14_ex4\W14_ex4\bin\Debug\net8.0\W14_ex4.dll
+C:\Users\mihke\source\repos\W14\W14_ex4\W14_ex4\bin\Debug\net8.0\W14_ex4.pdb
+C:\Users\mihke\source\repos\W14\W14_ex4\W14_ex4\obj\Debug\net8.0\W14_ex4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mihke\source\repos\W14\W14_ex4\W14_ex4\obj\Debug\net8.0\W14_ex4.AssemblyInfoInputs.cache
+C:\Users\mihke\source\repos\W14\W14_ex4\W14_ex4\obj\Debug\net8.0\W14_ex4.AssemblyInfo.cs
+C:\Users\mihke\source\repos\W14\W14_ex4\W14_ex4\obj\Debug\net8.0\W14_ex4.csproj.CoreCompileInputs.cache
+C:\Users\mihke\source\repos\W14\W14_ex4\W14_ex4\obj\Debug\net8.0\W14_ex4.dll
+C:\Users\mihke\source\repos\W14\W14_ex4\W14_ex4\obj\Debug\net8.0\refint\W14_ex4.dll
+C:\Users\mihke\source\repos\W14\W14_ex4\W14_ex4\obj\Debug\net8.0\W14_ex4.pdb
+C:\Users\mihke\source\repos\W14\W14_ex4\W14_ex4\obj\Debug\net8.0\W14_ex4.genruntimeconfig.cache
+C:\Users\mihke\source\repos\W14\W14_ex4\W14_ex4\obj\Debug\net8.0\ref\W14_ex4.dll
