@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Fb1dq93VvS2Oq434/e8ibnR89QWeyomVAMfR8FWsiGcYEX9ZQPfNSXi8xXYVr4zblt7Hfsldo8J2xOFXJhKyRg==",
+  "dgSpecHash": "DxrRx0vhKH53IhtQoLsut0CAvyP42uy4Vdp64G0J94I2rtpPsItc+Yrj2zF5PCDeCCeOxZHYJRP6AqPOAMsDBQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\opilane\\source\\repos\\Võrgurakendused\\EXAMPLEAPP-main\\ITB2203Application.csproj",
+  "projectFilePath": "C:\\Users\\opilane\\source\\repos\\MihkelPLoompuu\\TARpe23-Homework\\Võrgurakendused\\EXAMPLEAPP-main\\ITB2203Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\opilane\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.11\\microsoft.aspnetcore.openapi.7.0.11.nupkg.sha512",
     "C:\\Users\\opilane\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.7\\microsoft.entityframeworkcore.7.0.7.nupkg.sha512",

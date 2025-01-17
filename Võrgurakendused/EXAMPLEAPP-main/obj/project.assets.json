@@ -1013,11 +1013,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\Võrgurakendused\\EXAMPLEAPP-main\\ITB2203Application.csproj",
+      "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\MihkelPLoompuu\\TARpe23-Homework\\Võrgurakendused\\EXAMPLEAPP-main\\ITB2203Application.csproj",
       "projectName": "ITB2203Application",
-      "projectPath": "C:\\Users\\opilane\\source\\repos\\Võrgurakendused\\EXAMPLEAPP-main\\ITB2203Application.csproj",
+      "projectPath": "C:\\Users\\opilane\\source\\repos\\MihkelPLoompuu\\TARpe23-Homework\\Võrgurakendused\\EXAMPLEAPP-main\\ITB2203Application.csproj",
       "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\opilane\\source\\repos\\Võrgurakendused\\EXAMPLEAPP-main\\obj\\",
+      "outputPath": "C:\\Users\\opilane\\source\\repos\\MihkelPLoompuu\\TARpe23-Homework\\Võrgurakendused\\EXAMPLEAPP-main\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

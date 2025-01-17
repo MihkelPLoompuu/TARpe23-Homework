@@ -62,13 +62,17 @@ namespace ITB2203Application.Controllers
         public ActionResult<Speaker> PostSpeaker(Speaker speaker)
         {
             var dbExercise = _context.Speakers!.Find(speaker.Id);
+            if (!speaker.Email.Contains('@'))
+            {
+                return BadRequest();
+            }
             if (dbExercise == null)
             {
                 _context.Add(speaker);
                 _context.SaveChanges();
 
                 return CreatedAtAction(nameof(GetSpeaker), new { Id = speaker.Id }, speaker);
-            }
+            }          
             else
             {
                 return Conflict();
