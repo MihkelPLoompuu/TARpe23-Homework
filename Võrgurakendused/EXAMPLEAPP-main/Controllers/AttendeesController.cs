@@ -18,7 +18,7 @@ namespace ITB2203Application.Controllers
         }
 
         [HttpGet]
-        public ActionResult<IEnumerable<Attendee>> GetAttendees(string? name = null, string? email = null)
+        public ActionResult<IEnumerable<Attendee>> GetAttendees(string? name = null, string? email = null, int? DAYbe = null)
         {
             var query = _context.Attendees!.AsQueryable();
 
