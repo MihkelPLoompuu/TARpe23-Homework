@@ -2,7 +2,9 @@
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.VisualBasic;
 using System.ComponentModel.DataAnnotations;
+using static System.Net.Mime.MediaTypeNames;
 
 namespace ITB2203Application.Controllers
 {
@@ -18,14 +20,19 @@ namespace ITB2203Application.Controllers
         }
 
         [HttpGet]
-        public ActionResult<IEnumerable<Attendee>> GetAttendees(string? name = null, string? email = null, int? DAYbe = null)
+        public ActionResult<IEnumerable<Attendee>> GetAttendees(string? name = null, string? email = null, int? daysBeforeEvent = null)
         {
             var query = _context.Attendees!.AsQueryable();
 
             if (name != null)
                 query = query.Where(x => x.Name != null && x.Name.ToUpper().Contains(name.ToUpper()));
             if (email != null)
-                query = query.Where(x => x.Email != null && x.Email.ToUpper().Contains(email.ToUpper()));
+                query = query.Where(x => x.Email != null && x.Email.ToUpper().Contains(email.ToUpper()));                
+            if (daysBeforeEvent != null)
+            {
+                double dayse = double.Parse(daysBeforeEvent.ToString());
+                query = query.Where(atd => _context.Events.Any(e => e.Id == atd.EventId && (e.Date - atd.RegistrationTime ) > TimeSpan.FromDays(dayse)));
+            }
 
             return query.ToList();
         }
@@ -33,11 +40,11 @@ namespace ITB2203Application.Controllers
         [HttpGet("{id}")]
         public ActionResult<TextReader> GetAttendee(int id)
         {
-            var test = _context.Attendees!.Find(id);
+            var test = _context.Attendees!.Find(id);         
             if (test == null)
             {
                 return NotFound();
-            }
+            }            
 
             return Ok(test);
         }
