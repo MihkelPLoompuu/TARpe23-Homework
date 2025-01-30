@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Jo+snMDuLM3l5QG8cMz/T6yokmBm/fS3Egxrp4UuItk+MvB01jwTcFVoiEJdsVJhr+SVEVRyESBynbnfhLHD3Q==",
+  "dgSpecHash": "qjjGc+gjLrjmF6+DeOz2mssrx/DWJJvr20jMM+tguS9VF1io5Y+Zz5KQX6WkIIaG01pV0urug9UolxEXikkjPA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\opilane\\source\\repos\\VR\\WorkoutApplication\\WorkoutApplication.csproj",
+  "projectFilePath": "C:\\Users\\opilane\\source\\repos\\TARpe23\\TARpe23-Homework\\Võrgurakendused\\WorkoutApplication\\WorkoutApplication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\opilane\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.10\\microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
     "C:\\Users\\opilane\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.0\\microsoft.entityframeworkcore.7.0.0.nupkg.sha512",
